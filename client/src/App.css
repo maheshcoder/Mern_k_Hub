@@ -1,0 +1,9 @@
+@media (min-width: 1025px) {
+  .h-custom {
+  height: 80vh !important;
+  }
+  body {
+    background-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vectorstock.com%2Froyalty-free-vector%2Fcity-chinese-food-restaurant-cafe-cartoon-vector-27246475&psig=AOvVaw1JGnFNCv0IcMCN0YeJirTK&ust=1690296801454000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLjbk7XMp4ADFQAAAAAdAAAAABAE");
+    background-color: #cccccc;
+   }
+  }
